@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Convert the 0 into a number so we can add scores
 score = 0
 score = int(score)
